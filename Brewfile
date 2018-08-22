@@ -29,7 +29,6 @@ brew rbenv
 brew readline
 brew reattach-to-user-namespace
 brew ruby-build
-brew sl
 brew sqlite
 brew tmux
 brew tree
