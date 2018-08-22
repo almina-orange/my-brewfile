@@ -10,7 +10,7 @@ package list for Homebrew
 
 2. Edit `.zshrc` to use `brew-wrap` if you would like to update brewfile *automatically*.
 
-    ```
+    ```diff
     # .zshrc
     + if [ -f $(brew --prefix)/etc/brew-wrap ];then
     +   source $(brew --prefix)/etc/brew-wrap
