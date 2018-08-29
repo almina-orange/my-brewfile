@@ -80,9 +80,6 @@ cask basictex
 tap heroku/brew
 brew heroku-node
 
-tap rcmdnk/file
-brew brew-file
-
 tap sanemat/font
 brew ricty
 
@@ -90,12 +87,5 @@ brew ricty
 cask xquartz
 
 # App Store applications
-appstore 406056744 Evernote (7.4)
-appstore 682658836 GarageBand (10.3.1)
-appstore 409183694 Keynote (8.1)
 appstore 1281442746 LightCleanerLE (1.0.3)
-appstore 539883307 LINE (5.9.3)
-appstore  Install macOS High Sierra (13105)
-appstore 409203825 Numbers (5.1)
-appstore 409201541 Pages (7.1)
 appstore 497799835 Xcode (9.2)
